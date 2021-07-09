@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          HANS MONZON INDUSTRIES. HELLO
+          HANS MONZON INDUSTRIES. hooosi
         </a>
       </header>
     </div>
