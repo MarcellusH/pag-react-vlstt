@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          HANS MONZON INDUSTRIES. international
+          HANS MONZON INDUSTRIES.
         </a>
       </header>
     </div>
