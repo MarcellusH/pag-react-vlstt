@@ -26,7 +26,7 @@ h1{
     width: 70%;
 
     
-    background-color: rgb(53, 63, 63);
+    background-color: rgb(6, 168, 173);
     display: flex;
     color: blanchedalmond;
     flex-wrap: wrap;
@@ -61,3 +61,10 @@ h1{
     background-color: coral;
 
 }
+
+.carrito{
+
+   
+    width: 20px;
+}
+

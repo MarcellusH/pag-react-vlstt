@@ -12,7 +12,7 @@ function App() {
 
     <div className="App">
      <Navbar  nombreTienda="VLST" subtitulo= "Store" darBienvenida= {darBienvenida} />
-
+    
     
     </div>
 
@@ -22,3 +22,15 @@ function App() {
 };
 
 export default App;
+
+
+
+
+
+
+
+
+
+
+
+
